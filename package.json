@@ -1,0 +1,29 @@
+{
+  "name": "flc-property-mining",
+  "version": "1.0.0",
+  "description": "Process for mining and curating forfeited land via county auction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/219-digital/flc-property-mining.git"
+  },
+  "author": "219 Digital",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/219-digital/flc-property-mining/issues"
+  },
+  "homepage": "https://github.com/219-digital/flc-property-mining#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "data-mining-tools": "^0.4.1",
+    "deep-cuts": "^1.7.0",
+    "localism": "^1.1.2",
+    "lodash": "^4.17.20",
+    "pdf-parse": "^1.1.1",
+    "qs": "^6.9.4"
+  }
+}
