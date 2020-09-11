@@ -4,7 +4,7 @@
   "description": "Process for mining and curating forfeited land via county auction.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node lib/tasks/flc-data.js"
   },
   "repository": {
     "type": "git",
@@ -21,9 +21,11 @@
     "cheerio": "^1.0.0-rc.3",
     "data-mining-tools": "^0.4.1",
     "deep-cuts": "^1.7.0",
+    "fs-extra": "^9.0.1",
     "localism": "^1.1.2",
     "lodash": "^4.17.20",
     "pdf-parse": "^1.1.1",
+    "prompts": "^2.3.2",
     "qs": "^6.9.4"
   }
 }
