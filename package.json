@@ -19,11 +19,14 @@
   "dependencies": {
     "axios": "^0.20.0",
     "cheerio": "^1.0.0-rc.3",
+    "convert-units": "^2.3.4",
     "data-mining-tools": "^0.4.1",
     "deep-cuts": "^1.7.0",
+    "dotenv": "^8.2.0",
     "fs-extra": "^9.0.1",
     "localism": "^1.1.2",
     "lodash": "^4.17.20",
+    "numeral": "^2.0.6",
     "pdf-parse": "^1.1.1",
     "prompts": "^2.3.2",
     "qs": "^6.9.4"
