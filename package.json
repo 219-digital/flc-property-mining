@@ -26,6 +26,7 @@
     "fs-extra": "^9.0.1",
     "localism": "^1.1.2",
     "lodash": "^4.17.20",
+    "node-zillow": "^2.0.0",
     "numeral": "^2.0.6",
     "pdf-parse": "^1.1.1",
     "prompts": "^2.3.2",
