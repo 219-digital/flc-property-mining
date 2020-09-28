@@ -26,8 +26,11 @@
     "fs-extra": "^9.0.1",
     "localism": "^1.1.2",
     "lodash": "^4.17.20",
+    "mathjs": "^7.3.0",
+    "moment": "^2.29.0",
     "node-zillow": "^2.0.0",
     "numeral": "^2.0.6",
+    "parse-address": "^1.1.2",
     "pdf-parse": "^1.1.1",
     "prompts": "^2.3.2",
     "qs": "^6.9.4"
