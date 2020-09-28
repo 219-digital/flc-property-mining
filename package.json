@@ -20,7 +20,7 @@
     "axios": "^0.20.0",
     "cheerio": "^1.0.0-rc.3",
     "convert-units": "^2.3.4",
-    "data-mining-tools": "^0.4.1",
+    "data-mining-tools": "^0.5.0",
     "deep-cuts": "^1.7.0",
     "dotenv": "^8.2.0",
     "fs-extra": "^9.0.1",
